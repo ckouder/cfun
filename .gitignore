@@ -1,0 +1,5 @@
+*~
+*.dSYM
+compile_commands.json
+obj
+fundot
